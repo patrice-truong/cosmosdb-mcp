@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/patrice-truong-cosmosdb-mcp-badge.png)](https://mseep.ai/app/patrice-truong-cosmosdb-mcp)
+
 # Azure Cosmos DB MCP CLient & Server
 
 This repository contains a project that shows how to create an MCP Server and client for Azure Cosmos DB. The project is divided into 2 parts:
